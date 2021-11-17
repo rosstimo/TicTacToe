@@ -15,7 +15,8 @@ Option Compare Binary
 
 'Future:
 'Allow choice of console game or graphical game (WinForm). web based asp.net if really ambitious
-'
+'computer vs player
+'computer vs computer (ha ha ha)
 
 Module TicTacToe
 
