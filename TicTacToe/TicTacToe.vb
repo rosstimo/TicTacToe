@@ -19,6 +19,9 @@ Option Compare Binary
 
 Module TicTacToe
 
+    'store game/turn data. "X", "O", ""
+    Private gameBoardData(2, 2) As String
+
     Sub Main()
 
     End Sub
